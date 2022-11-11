@@ -1,0 +1,12 @@
+/*
+primary: #FD5E53
+secundary: #F9FCFB
+light: #B0EACD
+info: #21BF73
+*/
+.text-light{
+    color: #B0EACD
+}
+.bg-primary{
+    background-color: #FD5E53;
+}
